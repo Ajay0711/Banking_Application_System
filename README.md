@@ -6,7 +6,11 @@ Further, it displays the series of menus to operate over the accounts.
 The series of menus displayed are as follows:
 
 Display all account details
+
 Search by account number
+
 Deposit the amount
+
 Withdraw the amount
+
 Exit
